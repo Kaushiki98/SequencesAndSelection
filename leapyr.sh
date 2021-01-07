@@ -1,4 +1,4 @@
-#1/bin/bash -x
+#!/bin/bash -x
 echo "enter year (YYYY):  "
 read y
 year=$y

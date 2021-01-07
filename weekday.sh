@@ -1,4 +1,4 @@
-#1/bin/bash -x
+#!/bin/bash -x
 echo "Enter a num: "
 read num
 case $num in
